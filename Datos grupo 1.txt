@@ -16,3 +16,6 @@ del trabajo al reposito y dificultado la finalizacion de este.
 
 El apendiz Manuel Ramirez tuvo dificultades con la autenticacion del programa git, por tal motivo trabajo de manera remota 
 en el equipo de Monica Padilla para poder realizar la entrega de los puntos que le correspondian.
+
+No quiero sonar como estudiante de colegio, pero me encontraba estudiando y no tuve oportunidad de apoyar al equipo en ese momento.
+de todos modos acepto responsabilidad de lo sucedido y acepto el procedimiento a seguir segun criterio del instructor.
